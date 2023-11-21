@@ -1,0 +1,72 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,5.0.2+dfsg1-1+deb10u1*
+G04 #@! TF.CreationDate,2023-11-21T23:16:01+01:00*
+G04 #@! TF.ProjectId,Carte _lectronique pilotage variateur,43617274-6520-4e96-9c65-6374726f6e69,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Copper,L1,Top*
+G04 #@! TF.FilePolarity,Positive*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 5.0.2+dfsg1-1+deb10u1) date mar. 21 nov. 2023 23:16:01 CET*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD10R,1.800000X1.800000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD11C,1.800000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD12C,3.000000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD13R,3.000000X3.000000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD14C,1.600000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD15O,1.600000X1.600000*%
+G04 #@! TD*
+G04 APERTURE END LIST*
+D10*
+G04 #@! TO.P,Rx,1*
+G04 #@! TO.N,N/C*
+X181500000Y-91500000D03*
+D11*
+G04 #@! TO.P,Rx,2*
+X181500000Y-88960000D03*
+G04 #@! TD*
+D12*
+G04 #@! TO.P,,2*
+G04 #@! TO.N,N/C*
+X168580000Y-99000000D03*
+D13*
+G04 #@! TO.P,,1*
+X163500000Y-99000000D03*
+G04 #@! TD*
+G04 #@! TO.P,,1*
+G04 #@! TO.N,N/C*
+X174500000Y-99000000D03*
+D12*
+G04 #@! TO.P,,2*
+X179580000Y-99000000D03*
+G04 #@! TD*
+D14*
+G04 #@! TO.P,33k,1*
+G04 #@! TO.N,N/C*
+X166500000Y-93500000D03*
+D15*
+G04 #@! TO.P,33k,2*
+X176660000Y-93500000D03*
+G04 #@! TD*
+D11*
+G04 #@! TO.P,Tx,2*
+G04 #@! TO.N,N/C*
+X162000000Y-88960000D03*
+D10*
+G04 #@! TO.P,Tx,1*
+X162000000Y-91500000D03*
+G04 #@! TD*
+M02*

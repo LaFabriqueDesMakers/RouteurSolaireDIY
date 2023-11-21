@@ -1,0 +1,16 @@
+M48
+;DRILL file {KiCad 5.0.2+dfsg1-1+deb10u1} date mar. 21 nov. 2023 23:16:19 CET
+;FORMAT={-:-/ absolute / inch / decimal}
+FMAT,2
+INCH,TZ
+T1C0.1260
+%
+G90
+G05
+T1
+X6.1811Y-3.937
+X7.3425Y-3.937
+X7.3425Y-3.3858
+X6.1811Y-3.3858
+T0
+M30

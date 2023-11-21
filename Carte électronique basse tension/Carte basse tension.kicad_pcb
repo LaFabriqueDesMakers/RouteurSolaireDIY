@@ -302,11 +302,11 @@
     )
   )
 
-  (module TerminalBlock:TerminalBlock_bornier-2_P5.08mm (layer F.Cu) (tedit 6553F1B2) (tstamp 655400F4)
+  (module TerminalBlock:TerminalBlock_bornier-2_P5.08mm (layer F.Cu) (tedit 655D2E02) (tstamp 655400F4)
     (at 96.5 87.5 270)
     (descr "simple 2-pin terminal block, pitch 5.08mm, revamped version of bornier2")
     (tags "terminal block bornier2")
-    (fp_text reference "AC 5v" (at 2.5 5.5 270) (layer F.SilkS)
+    (fp_text reference "AC 9v" (at 2.5 5.5 270) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value TerminalBlock_bornier-2_P5.08mm (at 2.54 5.08 270) (layer F.Fab)
